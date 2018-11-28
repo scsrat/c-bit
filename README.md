@@ -66,3 +66,16 @@ Changes should be tested by somebody other than the developer who wrote the
 code. This is especially important for large or high-risk changes. It is useful
 to add a test plan to the pull request description if testing the changes is
 not straightforward.
+
+### Add nodes to connection
+
+addnode=144.202.48.183:39302
+addnode=158.69.126.193:43023
+addnode=158.69.248.93:8289
+addnode=176.9.25.79:8289
+addnode=5.9.14.199:8289
+addnode=51.15.162.24:8289
+addnode=95.95.58.37:59742
+addnode=[2001:0:9d38:953c:c74:4d6:b356:cc47]:8289
+addnode=[2607:5300:120:85d::]:8289
+addnode=[2a01:4f8:150:2344::2]:8289
